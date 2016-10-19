@@ -1,0 +1,4 @@
+to run this container:
+
+1/ docker build -t my-node-js-ubuntu .
+2/ dockrun run -d -p 8080:8080 my-node-js-ubuntu
