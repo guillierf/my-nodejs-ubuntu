@@ -1,5 +1,12 @@
+MY-NODEJS-UBUNTUN
+
+example taken from: Kubernetes tutorial basic
+
 purpose of this example is to show:
 Dockerfile functionality
+
+result:
+shows a web page with the container id information and the version number (v1 or v2)
 
 to run this container:
 
