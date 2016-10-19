@@ -1,3 +1,6 @@
+purpose of this example is to show:
+Dockerfile functionality
+
 to run this container:
 
 1/ docker build -t my-nodejs-ubuntu .
